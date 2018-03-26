@@ -1,2 +1,0 @@
-# cryptorio
-about crypto information
